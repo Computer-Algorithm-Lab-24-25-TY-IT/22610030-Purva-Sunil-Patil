@@ -13,5 +13,6 @@
 3.Analysis:
 
 ![Screenshot from 2024-07-28 18-49-12](https://github.com/user-attachments/assets/6dc8187d-2dc2-4127-bbec-02e15bccbec1)
-![Screenshot from 2024-07-28 18-49-33](https://github.com/user-attachments/assets/c6dada9c-d113-477f-9289-ea185f0851a3)
 ![Screenshot from 2024-07-28 18-49-25](https://github.com/user-attachments/assets/d347cab4-959b-4eef-a9d1-043a8049b880)
+![Screenshot from 2024-07-28 18-49-33](https://github.com/user-attachments/assets/c6dada9c-d113-477f-9289-ea185f0851a3)
+
