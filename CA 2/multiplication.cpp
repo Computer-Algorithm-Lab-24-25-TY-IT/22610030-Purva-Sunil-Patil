@@ -24,8 +24,7 @@ void displayMatrix(int matrix[3][3]) {
 int main() {
     int firstMatrix[3][3];
     int secondMatrix[3][3];
-    int result[3][3]; // To store result of multiplication
-
+    int result[3][3]; 
     cout << "Enter elements of the first 3x3 matrix:" << endl;
     for (int i = 0; i < 3; ++i) {
         for (int j = 0; j < 3; ++j) {
